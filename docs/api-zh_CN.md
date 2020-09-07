@@ -110,7 +110,7 @@ GET https://xk2.zkllab.com/api/courses/extra
 
 | 返回值字段  | 字段类型 | 字段说明                   |
 | ----------- | -------- | -------------------------- |
-| data        | `Object` | 校区：宝山/嘉定/延长       |
+| data        | `Object` | 附加课程信息字典           |
 | hash        | `String` | 附加课程信息对应的课程hash |
 | update_time | `Number` | 最有一次更新的时间戳       |
 | capacity    | `String` | 课程容量                   |
